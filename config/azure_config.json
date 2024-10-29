@@ -1,0 +1,7 @@
+{
+  "OPENAI_API_KEY": "8254279441584f30b2147d359a301f77",
+  "ENDPOINT": "https://bci-ai-sc.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-15-preview",
+  "DEPLOYMENT": "gpt-4o-mini",
+  "DOCS_DIR": "Docs",
+  "coding_extensions": [".java"]
+}
